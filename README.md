@@ -5,5 +5,4 @@ There are a total of 1465 employees who are born between January 1, 1965 and Dec
 ![ERD](EmployeeDB.png)
 
 NOTE:
-Please find queries inside queries folder
-Please find resulting csv inside data folder
+Please find queries inside queries folder and resulting csv inside data folder
